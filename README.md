@@ -1,4 +1,7 @@
 # PyPhotoshop
+
+https://www.youtube.com/watch?v=8ext9G7xspg&list=UU8butISFwT-Wl7EV0hUK0BQ&index=134&ab_channel=freeCodeCamp.org
+
 Python implementation of image filters
 
 Use Python to adjust brightness and contrast, add blur, and detect edges! Follow along tutorial: https://youtu.be/4ifdUQmZqhM
